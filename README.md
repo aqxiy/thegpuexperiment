@@ -1,5 +1,5 @@
 # thegpuexperiment
-treesort.py
+### BELOW is not fully conssitent with the spirit of the project. Interesting patterns observed but ultimately it's just that if you limit FPS to 153 on AMD GPU with a 60 hz, you can get something like hypnosis. 
 
 The GPU Experiment
 
